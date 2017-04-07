@@ -1,0 +1,37 @@
+#myCarousel /*carousel moved down underneath nav bar*/
+{
+    margin-top:50px;
+}
+
+.carousel-inner .item  img{
+    height:400px;
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.navbar{
+    background:#337ab7;
+    color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-header .navbar-brand{
+    color:white;
+}
+
+.featurette-image{
+    height:100px;
+}
+
+.form{
+    margin-left:20px;
+}
+.form label,input{
+    display:inline-block;
+    width:25%;
+}
+
+#container{     /*product list moved down underneath nav bar*/
+    margin-top:52px;
+}
